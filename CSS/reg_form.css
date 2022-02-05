@@ -1,0 +1,108 @@
+.body {
+	margin: 0;
+}
+#rlable{
+	color: white;
+	margin-right: 1%;
+	margin-left: 1%;
+	font-weight: normal;
+
+}
+#std_reg1{
+	width: 30%;
+	height: 5%;
+	outline: none;
+	border-style: none;
+	background-color: white;
+	opacity: 0.7;
+	margin-top: 2%;
+	margin-left: 2%;
+	font-weight: bold;
+	color: black;
+}
+#std_reg2{
+	width: 30%;
+	height: 5%;
+	outline: none;
+	border-style: none;
+	background-color: white;
+	opacity: 0.7;
+	margin-top: 2%;
+	margin-left: 0.5%;
+	font-weight: bold;
+	color: black;
+}
+#std_reg3{
+	width: 30%;
+	height: 5%;
+	outline: none;
+	border-style: none;
+	background-color: white;
+	opacity: 0.7;
+	margin-top: 2%;
+	margin-left: 0.2%;
+	font-weight: bold;
+	color: black;
+}
+#std_reg4{
+	width: 30%;
+	height: 5%;
+	outline: none;
+	border-style: none;
+	background-color: white;
+	opacity: 0.7;
+	margin-top: 2%;
+	margin-left: 4%;
+	font-weight: bold;
+	color: black;
+}
+#std_reg5{
+	width: 30%;
+	height: 5%;
+	outline: none;
+	border-style: none;
+	background-color: white;
+	opacity: 0.7;
+	margin-top: 2%;
+	margin-left: 2%;
+	font-weight: bold;
+	color: black;
+}
+#subbtn{
+width: 10%;
+height: 6%;
+margin-top: 2%;
+margin-left: 1%;
+outline: none;
+border-style: none;
+color: white;
+font-weight: bold;
+text-align: center;
+background-color: #48aee1;
+cursor: pointer;
+
+}
+#clsbtn{
+width: 10%;
+height: 6%;
+margin-top: 2%;
+margin-left: 1%;
+outline: none;
+border-style: none;
+color: white;
+font-weight: bold;
+text-align: center;
+background-color: #48aee1;
+cursor: pointer;
+}
+#clsbtn:hover{
+	color: darkred;
+	font-weight: bolder;
+	}
+#subbtn:hover{
+	color: darkred;
+	font-weight: bolder;
+	}
+#uplable{
+	color: white;
+}
